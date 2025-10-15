@@ -10,7 +10,7 @@
 | :------------------: | :------------------------------------: |
 | 오태준 (Team Leader) | [@taejun0](https://github.com/taejun0) |
 |        곽도윤        |                   -                    |
-|        박서연        |                   -                    |
+|        박서연        |[@seoyeon435](https://github.com/seoyeon435)|
 |        백지연        | [@jyeon03](https://github.com/jyeon03) |
 |        이보연        |                   -                    |
 
